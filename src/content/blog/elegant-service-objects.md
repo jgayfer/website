@@ -7,7 +7,7 @@ postSlug: elegant-service-objects
 pubDatetime: 2021-02-28T00:11:00.000Z
 tags:
   - dev
-  - rust
+  - ruby
 ---
 
 Service objects are one of my favourite design patterns. They aren’t glamorous, but can bring a lot of organizational value to a code base. They’re easy to test, and can take a lot of complexity out of your models and controllers.
