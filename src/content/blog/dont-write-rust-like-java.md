@@ -84,9 +84,9 @@ struct Service {
 
 I’ve tried both approaches. They _work_, but aren't enjoyable, especially when every service in our app is affected.
 
-## It's okay to use pure functions
+## It's okay to use functions
 
-Forcing Rust to be a purely object oriented language isn't fun. While I do still write "service objects" as in the above examples, I try and only use them where necessary, instead preferring pure functions.
+Forcing Rust to be a purely object oriented language isn't fun. While I do still write "service objects" as in the above examples, I try and only use them where necessary, instead preferring functions.
 
 Consider a function for handling a Stripe checkout session complete event that updates the Stripe customer ID in our system.
 
