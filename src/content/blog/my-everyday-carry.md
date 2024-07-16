@@ -4,7 +4,7 @@ title: My everyday carry
 description: Attempting to free myself from my own thoughts with a notebook.
 featured: false
 postSlug: my-everyday-carry
-pubDatetime: 2024-10-16T12:03:00.000Z
+pubDatetime: 2024-07-16T12:03:00.000Z
 tags:
   - personal
 ---
