@@ -74,11 +74,11 @@ struct Service<'a> {
 }
 ```
 
-Or do we use an [`Arc`](https://doc.rust-lang.org/std/sync/struct.Arc.html) such that our dependent services hold onto an `Arc<Box<dyn Named>>`, allowing concurrent access of the owned resource?
+Or do we use an [`Arc`](https://doc.rust-lang.org/std/sync/struct.Arc.html) such that our dependent services hold onto an `Arc<dyn Named>`, allowing concurrent access of the owned resource?
 
 ```rust
 struct Service {
-    named: Arc<Box<dyn Named>>
+    named: Arc<dyn Named>
 }
 ```
 
