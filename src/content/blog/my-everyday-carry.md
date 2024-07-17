@@ -11,7 +11,7 @@ tags:
 
 Lately I’ve been a victim to my own thoughts. As a lifelong learner, I find it challenging to idle when I could be doing something “productive”. Ideas are always coming and going for things I want to do or try: a programming language I’d like to learn, a hobby I’d like to revive, a skill I want to get better at. A pursuit is often forthcoming (and I wouldn’t have it any other way). As much as I’d like to act on all of these ideas, the reality is life often takes priority (as it should). My desire to pursue coupled with a lack of time to do so manifests as a rehearsal loop, where ideas run in my head on repeat lest they slip away.
 
-To combat this, I’ve started keeping a pocket notebook and pen on me at all times. As the name implies, it’s small enough to keep on my pocket. I’ve been carrying it for the better part of a year, and it’s become a comfort (much like the feeling of my phone in my pocket). When it’s not there, something feels off.
+To combat this, I’ve started keeping a pocket notebook and pen on me at all times. As the name implies, it’s small enough to keep in my pocket. I’ve been carrying it for the better part of a year, and it’s become a comfort (much like the feeling of my phone in my pocket). When it’s not there, something feels off.
 
 I’ve historically been terrible at writing in notebooks, as I worry that I’ll “ruin” it with poor hand writing or incomplete thoughts. My first entry attempted to address this blocker, where I wrote that there are no rules for what can be written down. The notebook is a tool, nothing more. I jot down lists, thoughts, memories, things I want to recall later, and things I want to remember today.
 
