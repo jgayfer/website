@@ -59,7 +59,7 @@ light, but the final API wasn’t bad. I released it on crates.io under
 the name [`bevy_light_2d`](https://crates.io/crates/bevy_light_2d),
 and was pleased to see a few people start using it. I’ve
 continued to tinker on the library, with the most recent addition
-has been light occlusion and dynamic shadows. You can find a demo on
+being light occlusion and dynamic shadows. You can find a demo on
 [Mastodon](https://fosstodon.org/@jgayfer/112913186285363067). I’d like
 to thank [Miguel Albernaz](https://github.com/malbernaz) for helping with
 the implementation.
