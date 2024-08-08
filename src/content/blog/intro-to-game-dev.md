@@ -10,7 +10,7 @@ tags:
   - gamedev
 ---
 
-I wrote my first line of code in January of 2013. I wasn’t pursing a career
+I wrote my first line of code in January of 2013. I wasn’t pursuing a career
 in software at the time, but I enjoyed writing code enough to give it a
 serious try. Unlike many young aspiring programmers, learning how to make
 games was not a priority for me. In fact I actively avoided it throughout
